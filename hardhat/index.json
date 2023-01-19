@@ -1,58 +1,58 @@
 {
-    "parent": "hardhat",
-    "0": {
-        "title": "Prologue",
-        "path": "prologue",
-        "prevIndex": "nothing",
-        "nextIndex": "1"
-    },
-    "1": {
-        "title": "Setting up Hardhat",
-        "path": "1_setting_up_hardhat",
-        "prevIndex": "0",
-        "nextIndex": "2"
-    },
-    "2": {
-        "title": "Writing Smart Contracts",
-        "path": "2_writing_smart_contracts",
-        "prevIndex": "1",
-        "nextIndex": "3"
-    },
-    "3": {
-        "title": "Intro to Artifacts & Cache",
-        "path": "3_intro_to_artifacts_and_cache",
-        "prevIndex": "2",
-        "nextIndex": "4"
-    },
-    "4": {
-        "title": "Testing Contracts",
-        "path": "4_testing_contracts",
-        "prevIndex": "3",
-        "nextIndex": "5"
-    },
-    "5": {
-        "title": "Calling Contract Functions",
-        "path": "5_calling_contract_functions",
-        "prevIndex": "4",
-        "nextIndex": "6"
-    },
-    "6": {
-        "title": "Going Live",
-        "path": "6_going_live",
-        "prevIndex": "5",
-        "nextIndex": "7"
-    },
-    "7": {
-        "title": "Verifying on Etherscan",
-        "path": "7_verifying_on_etherscan",
-        "prevIndex": "6",
-        "nextIndex": "8"
-    },
-    "8": {
-        "title": "Epilogue",
-        "path": "epilogue",
-        "prevIndex": "7",
-        "nextIndex": "nothing"
-    },
-    "sections": ["0", "1", "2", "3", "4", "5", "6", "7", "8"]
+	"parent": "hardhat",
+	"0": {
+		"title": "Prologue",
+		"path": "prologue",
+		"prevIndex": "nothing",
+		"nextIndex": "1"
+	},
+	"1": {
+		"title": "Setting up Hardhat",
+		"path": "1_setting_up_hardhat",
+		"prevIndex": "0",
+		"nextIndex": "2"
+	},
+	"2": {
+		"title": "Writing Contracts",
+		"path": "2_writing_contracts",
+		"prevIndex": "1",
+		"nextIndex": "3"
+	},
+	"3": {
+		"title": "Intro to Artifacts & Cache",
+		"path": "3_intro_to_artifacts_and_cache",
+		"prevIndex": "2",
+		"nextIndex": "4"
+	},
+	"4": {
+		"title": "Local Deployment",
+		"path": "4_local_deployment",
+		"prevIndex": "3",
+		"nextIndex": "5"
+	},
+	"5": {
+		"title": "Calling Contract Functions",
+		"path": "5_calling_contract_functions",
+		"prevIndex": "4",
+		"nextIndex": "6"
+	},
+	"6": {
+		"title": "Going Live",
+		"path": "6_going_live",
+		"prevIndex": "5",
+		"nextIndex": "7"
+	},
+	"7": {
+		"title": "Verifying on Etherscan",
+		"path": "7_verifying_on_etherscan",
+		"prevIndex": "6",
+		"nextIndex": "8"
+	},
+	"8": {
+		"title": "Epilogue",
+		"path": "epilogue",
+		"prevIndex": "7",
+		"nextIndex": "nothing"
+	},
+	"sections": ["0", "1", "2", "3", "4", "5", "6", "7", "8"]
 }
