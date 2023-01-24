@@ -30,4 +30,4 @@ npx hardhat
 -   `scripts` - Deployment scripts are made here
 -   `test` - Testing scripts go here
 
-### Let's write some _cool_ smart contracts in `next` section.
+### "Let's write some cool smart contracts in next section."
