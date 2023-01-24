@@ -16,8 +16,8 @@
 		"nextIndex": "2"
 	},
 	"2": {
-		"title": "Writing Contracts",
-		"path": "2_writing_contracts",
+		"title": "Writing Smart Contracts",
+		"path": "2_writing_samrt_contracts",
 		"prevIndex": "1",
 		"nextIndex": "3"
 	},

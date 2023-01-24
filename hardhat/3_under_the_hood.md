@@ -8,7 +8,7 @@ section: 3
 
 ## Prerequisites
 
--   [Writing Contracts](./2_writing_contracts.md)
+-   [Writing Smart Contracts](./2_writing_smart_contracts.md)
 
 ## 1. Importing Environment
 

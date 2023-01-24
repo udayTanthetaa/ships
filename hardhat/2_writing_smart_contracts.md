@@ -4,7 +4,7 @@ takes: 3
 section: 2
 ---
 
-# Writing Contracts --takes 3 min.
+# Writing Smart Contracts --takes 3 min.
 
 ## Prerequisites
 

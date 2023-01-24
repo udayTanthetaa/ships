@@ -40,7 +40,7 @@ main().catch((error) => {
 > Note: Bytecode consists of anything + everything your smart contract does. It will be then converted to machine level binary code.
 
 -   Bytecode is taken by a function of _ethers_ called `getContractFactory`.
--   Then, we will just call the **_deploy_** method returned by getContractFactory object.
+-   Then, we will call the **_deploy_** method returned by getContractFactory object.
 -   Now, just _wait_ for the `deployed promise` to get fulfilled.
 
 ## 4. Writing Deployment Logic
@@ -75,7 +75,7 @@ const main = async () => {
 };
 ```
 
-> **_p.s._**, you can also `console.log` contractFactory + contract objects to sell all those _nerdy_ stuff that happens behind the scenes.
+> **_p.s._**, you can also `console.log` _contractFactory_ + _contract_ objects to sell all that _nerdy_ stuff which happens behind the scenes.
 
 ## 5. Executing Deploy Script
 
