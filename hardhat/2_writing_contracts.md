@@ -8,7 +8,7 @@ section: 2
 
 ## Prerequisites
 
--   _[Setting up Hardhat](./1_setting_up_hardhat.md)_
+-   [Setting up Hardhat](./1_setting_up_hardhat.md)
 
 ## 1. Installing Extension
 
