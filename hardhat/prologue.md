@@ -18,9 +18,11 @@ to verifying `production ready` smart contracts on Etherscan -- _everything @_ *
 
 ## We're Open Source
 
-All the content is fetched from a **[this](https://github.com/shipends/ships/tree/main/hardhat)** GitHub repo --
+All the content is fetched from **[this](https://github.com/shipends/ships/tree/main/hardhat)** GitHub repo --
 if you find a typo, issue or wanna modify things to _help_ others build cool products, just make a `Pull Request` --
 _earn_ open-source contribution in return, **gg!**
 
 -   Don't how how to _make_ a Pull Request? -- check **[this](https://docs.github.com/en/desktop/contributing-and-collaborating-using-github-desktop/working-with-your-remote-repository-on-github-or-github-enterprise/creating-an-issue-or-pull-request)** out.
 -   _Liked_ the content? -- star us **[here](https://github.com/shipends/ships)**.
+
+### Let's **[start](./1_setting_up_hardhat.md)** this voyage!
