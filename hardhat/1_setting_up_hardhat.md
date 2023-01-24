@@ -30,6 +30,4 @@ npx hardhat
 -   `scripts` - Deployment scripts are made here
 -   `test` - Testing scripts go here
 
-## 4. Done
-
-Hardhat is all yours to explore, cap'n!
+### Let's write some cool smart contracts in next section.
