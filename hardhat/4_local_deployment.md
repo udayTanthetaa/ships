@@ -35,7 +35,7 @@ main().catch((error) => {
 
 ## 3. Understanding Deployment Process (Optional)
 
--   To _deploy_ a smart contract, it's `bytecode` is required -- you can find bytecode's value in `artifacts/contracts/[CONTRACT_NAME].sol/[CONTRACT_NAME].json` stored in the **bytecode** variable.
+-   To _deploy_ a smart contract, it's `bytecode` is required -- you can find bytecode's value in `artifacts / contracts / [CONTRACT_NAME].sol / [CONTRACT_NAME].json` stored in the **bytecode** variable.
 
 > Note: Bytecode consists of anything + everything your smart contract does. It will be then converted to machine level binary code.
 
