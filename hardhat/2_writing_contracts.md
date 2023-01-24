@@ -42,6 +42,6 @@ contract Hello {
 
 `console.sol` = `console.log in JavaScript` -- it helps in _printing statements_ to terminal during development.
 
-> **Note:** Remove console.sol import statment in _production_.
+> **Note:** Remove `console.sol` import statment in _production_.
 
 ### Wanna see some magical stuff? -- let's **[gooo](./3_under_the_hood.md)** then.
