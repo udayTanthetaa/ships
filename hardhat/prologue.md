@@ -13,8 +13,8 @@ but more powerful.
 
 ## A view of your Voyage
 
-We got 7 _sections_ -- each covering a specific part of Hardhat. **You** will go from _setting up_ local environment
-to verifying _production ready_ smart contracts on Etherscan -- _all @_ **_Lightspeed_**.
+We got 7 _sections_ -- each covering a specific part of Hardhat. **You** will go from `setting up` local environment
+to verifying `production ready` smart contracts on Etherscan -- _all @_ **_Lightspeed_**.
 
 ## We're Open Source
 
@@ -23,5 +23,4 @@ if you find a typo, issue or wanna modify things to _help_ others build cool pro
 _earn_ open-source contribution in return, **gg!**
 
 -   Don't how how to _make_ a Pull Request? -- check **[this](https://docs.github.com/en/desktop/contributing-and-collaborating-using-github-desktop/working-with-your-remote-repository-on-github-or-github-enterprise/creating-an-issue-or-pull-request)** out.
-
--   _Liked_ the content? -- star us **[here](https://github.com/shipends/ships)**.
+-   Liked the _content_? -- star us **[here](https://github.com/shipends/ships)**.
