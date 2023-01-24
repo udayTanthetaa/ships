@@ -63,4 +63,4 @@ _removes_ all the files from cache folder.
 npx hardhat clean
 ```
 
-### Done already? -- Let's **[deploy](./4_local_deployment.md)** now.
+### Done already? -- Let's **[see](./4_local_deployment.md)** it in action then.

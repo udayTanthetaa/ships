@@ -8,8 +8,8 @@ section: 4
 
 ## Prerequisites
 
--   [1. Writing Smart Contracts](./2_writing_smart_contracts.md)
--   [2. Intro to Artifacts & Cache](./3_intro_to_artifacts_and_cache.md)
+-   [Writing Contracts](./2_writing_contracts.md)
+-   [Under the Hood](./3_under_the_hood.md)
 
 ## 1. Creating Deploy Script
 
