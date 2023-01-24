@@ -25,4 +25,4 @@ _earn_ open-source contribution in return, **gg!**
 -   Don't how how to _make_ a Pull Request? -- check **[this](https://docs.github.com/en/desktop/contributing-and-collaborating-using-github-desktop/working-with-your-remote-repository-on-github-or-github-enterprise/creating-an-issue-or-pull-request)** out.
 -   _Liked_ the content? -- star us **[here](https://github.com/shipends/ships)**.
 
-### Let's **[start](./1_setting_up_hardhat.md)** this voyage!
+### Lets **[start](./1_setting_up_hardhat.md)** this voyage!
