@@ -8,7 +8,7 @@ section: 3
 
 ## Prerequisites
 
--   **[Writing Contracts](./2_writing_contracts.md)**
+-   **_[Writing Contracts](./2_writing_contracts.md)_**
 
 ## 1. Importing Environment
 
