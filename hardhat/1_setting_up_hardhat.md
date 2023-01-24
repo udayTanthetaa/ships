@@ -21,7 +21,7 @@ Run `npx hardhat` in terminal -> Create a _JavaScript_ project -> `SPAM ENTER` f
 npx hardhat
 ```
 
-> **Note:** Whenever you _compile/run_ your smart contract, Hardhat automatically gets the required version downloaded + installed for you -- _pretty cool right!_
+> **Note:** Whenever you _compile/run_ your smart contract, Hardhat automatically gets the required `version` downloaded + installed for you -- _pretty cool right!_
 
 ## 3. Quick Folder Intro
 
