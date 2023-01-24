@@ -13,12 +13,12 @@ section: 4
 
 ## 1. Creating Deploy Script
 
-Create deploy.js file in scripts folder -- if it already exists, delete all the content in it,
-coz' we gonna start from scratch like pros.
+Create **deploy.js** file in `scripts` folder -- if it _already_ exists, `delete` all the content in it,
+coz' we _gonna_ start from scratch like **_pros_**.
 
 ## 2. Writing Boilerplate
 
-Copy + Paste the following code in deploy.js
+`Copy + Paste` the following code in `deploy.js`
 
 ```js
 const hre = require("hardhat");
@@ -35,7 +35,7 @@ main().catch((error) => {
 
 ## 3. Understanding Deployment Process (Optional)
 
--   To deploy a smart contract, it's bytecode is required -- you can find bytecode's value in artifacts/contracts/[CONTRACT_NAME].sol/[CONTRACT_NAME].json stored in the "bytecode" variable.
+-   To _deploy_ a smart contract, it's `bytecode` is required -- you can find bytecode's value in `artifacts/contracts/[CONTRACT_NAME].sol/[CONTRACT_NAME].json` stored in the **bytecode** variable.
 
 > Note: Bytecode consists of anything + everything your smart contract does. It will be then converted to machine level binary code.
 
