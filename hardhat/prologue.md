@@ -14,7 +14,7 @@ but more powerful.
 ## A view of your Voyage
 
 We got 7 _sections_ -- each covering a specific part of Hardhat. **You** will go from `setting up` local environment
-to verifying `production ready` smart contracts on Etherscan -- _all @_ **_Lightspeed_**.
+to verifying `production ready` smart contracts on Etherscan -- _everything @_ **_Lightspeed_**.
 
 ## We're Open Source
 
