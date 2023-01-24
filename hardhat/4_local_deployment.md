@@ -35,35 +35,35 @@ main().catch((error) => {
 
 ## 3. Understanding Deployment Process (Optional)
 
--   To _deploy_ a smart contract, it's `bytecode` is required -- you can find bytecode's value in `artifacts / contracts / [CONTRACT_NAME].sol / [CONTRACT_NAME].json` stored in the **bytecode** variable.
+-   To _deploy_ a smart contract, it's `bytecode` is required -- you can find bytecode's value in `artifacts/contracts/[CONTRACT_NAME].sol/[CONTRACT_NAME].json` stored in the **bytecode** variable.
 
 > Note: Bytecode consists of anything + everything your smart contract does. It will be then converted to machine level binary code.
 
--   Bytecode is taken by a function of ethers called getContractFactory.
--   Then, we will just call the deploy function retured by getContractFactory object.
--   Now, just wait for the deployed promise to get fulfilled.
+-   Bytecode is taken by a function of _ethers_ called `getContractFactory`.
+-   Then, we will just call the **_deploy_** method returned by getContractFactory object.
+-   Now, just _wait_ for the `deployed promise` to get fulfilled.
 
 ## 4. Writing Deployment Logic
 
--   Setting Contract Factory
+-   Setting `Contract Factory`
 
 ```js
 const contractFactory = await hre.ethers.getContractFactory("CONTRACT_NAME");
 ```
 
--   Calling Deploy Method
+-   Calling **Deploy** Method
 
 ```js
 const contract = await contractFactory.deploy();
 ```
 
--   Waiting for Deployment to Complete
+-   **Waiting** for Deployment to Complete
 
 ```js
 await contract.deployed();
 ```
 
-Finally, your main function will look like this.
+Finally, your `main` function will look like **below**.
 
 ```js
 const main = async () => {
@@ -75,17 +75,15 @@ const main = async () => {
 };
 ```
 
-> P.S., you can also console log contractFactory + contract objects to sell all those nerdy stuffs that happen under the hood.
+> **_p.s._**, you can also `console.log` contractFactory + contract objects to sell all those _nerdy_ stuff that happens behind the scenes.
 
 ## 5. Executing Deploy Script
 
-Run npx hardat run scripts/deploy.js in terminal -- it will spin a local blockchain => execute your deploy script =>
-terminate the local blockchain -- damn those people who say blockchain is slow.
+Run `npx hardat run scripts/deploy.js` in terminal -- it will _spin_ a local blockchain => `execute` your deploy script =>
+_terminate_ the local instance -- all in just **one** command, that's Hardhat _bruh_.
 
 ```bash
 npx hardhat run scripts/deploy.js
 ```
 
-## 6. Done
-
-Fun Fact, now you can start interacting with your smart contracts.
+### Yay! You just deployed a smart contract, now let's **[learn](./5_calling_contract_functions.md)** how to call those smart functions.
