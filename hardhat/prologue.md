@@ -23,4 +23,4 @@ if you find a typo, issue or wanna modify things to _help_ others build cool pro
 _earn_ open-source contribution in return, **gg!**
 
 -   Don't how how to _make_ a Pull Request? -- check **[this](https://docs.github.com/en/desktop/contributing-and-collaborating-using-github-desktop/working-with-your-remote-repository-on-github-or-github-enterprise/creating-an-issue-or-pull-request)** out.
--   Liked the _content_? -- star us **[here](https://github.com/shipends/ships)**.
+-   _Liked_ the content? -- star us **[here](https://github.com/shipends/ships)**.
