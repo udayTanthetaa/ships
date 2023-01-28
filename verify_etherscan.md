@@ -35,7 +35,15 @@ npm install
 
 ## 3. Setting Up
 
--   Go [here](etherscanLink) + sign up / sign in
+-   Go [here](https://polygonscan.com/) + sign up / sign in
+-   After logging in, head over [here](https://polygonscan.com/myapikey) and create your API key
+
+![Create API Key on Polygonscan](https://i.imgur.com/WPkA4fP.png)
+
+-   Create an Alchemy account from [here](https://www.alchemy.com/)
+-   Go to dashboard over [here](https://dashboard.alchemy.com/), then click on `Create App`
+
+![Create App on Alchemy](https://i.imgur.com/ZHnZxAb.png)
 
 ## 2. Project Creation
 
