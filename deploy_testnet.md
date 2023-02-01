@@ -7,7 +7,7 @@ takes: 5
 
 > Why do it? -- Coz' you can't stay on localhost forever :)
 
-## 1. Cloning
+## 1. cloning
 
 Clone [this](link) repo -- maintained by your fellow shipper.
 
@@ -15,7 +15,7 @@ Clone [this](link) repo -- maintained by your fellow shipper.
 git clone link
 ```
 
-## 2. Installing
+## 2. installing
 
 Go inside the folder and install packages.
 
@@ -23,7 +23,7 @@ Go inside the folder and install packages.
 npm install
 ```
 
-## 3. Deploying
+## 3. deploying
 
 -   Create an Alchemy account from [here](https://www.alchemy.com/)
 -   Go to dashboard over [here](https://dashboard.alchemy.com/), then click on `Create App`
@@ -66,13 +66,15 @@ const contract = await contractFactory.deploy("Helu Shipper", "Shipends");
 npx hardhat run scripts/deploy.js --network mumbai
 ```
 
-## 4. Confirming
+## 4. confirming
 
 Go to Polygonscan Mumbai from [here](https://mumbai.polygonscan.com/) + paste your deployed contract address in search bar --
 voila, your smart contract is live for anyone to use, isn't that cool!
 
-## What's next?
+## what's next?
 
 > You know what's more cool? -- that green check mark on your deployed contract like below :)
+
+![Green check on Etherscan](https://i.imgur.com/zcKN61w.png)
 
 Click [here](./verify_etherscan.md) & make your smart contract verified -- in just 5 mins.
