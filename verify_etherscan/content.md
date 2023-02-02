@@ -42,7 +42,7 @@ npm install
 
 -   Copy that API Key + create .env file + paste it there
 
-```env
+```
 ETHERSCAN_API_KEY = A6NY2IUQX43A2F3PK9AU46PWXN8V5X6FPS
 ```
 
@@ -57,7 +57,7 @@ ETHERSCAN_API_KEY = A6NY2IUQX43A2F3PK9AU46PWXN8V5X6FPS
 
 -   Paste that copied URL in .env too
 
-```env
+```
 ALCHEMY_RPC_URL = https://polygon-mumbai.g.alchemy.com/v2/HXjU_LEQGsJdorj0WvERDM33FLGv5tnk
 ```
 
