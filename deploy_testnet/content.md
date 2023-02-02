@@ -6,7 +6,7 @@ section: 0
 
 # Deploy your Smart Contract on Testnet --takes 5 min.
 
-> Why do it? -- Coz' you can't stay on localhost forever :)
+Why do it? -- Coz' you can't stay on localhost forever :)
 
 ## 1. cloning
 
