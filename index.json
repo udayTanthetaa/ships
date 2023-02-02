@@ -2,6 +2,7 @@
 	"ships": [
 		{
 			"name": "Deploy your smart contract on Testnet",
+			"takes": 5,
 			"description": "It's time to get off the localhost + get real users for your dApp -- takes 5 mins.",
 			"path": "deploy_testnet",
 			"banner": "https://i.imgur.com/9ltNGpI.jpg",
@@ -9,6 +10,7 @@
 		},
 		{
 			"name": "Verify your smart contract on Etherscan",
+			"takes": 5,
 			"description": "Get your Etherscan Green tag for free, unlike Twitter Blue -- takes 5 mins.",
 			"path": "verify_etherscan",
 			"banner": "https://i.imgur.com/wzjm8zv.jpg",
