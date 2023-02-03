@@ -8,10 +8,10 @@ section: 0
 
 ## 1. Cloning
 
-Clone **[this](https://github.com/shipends/deploy-tesnet)** repo -- maintained by your :)
+Clone **[this](https://github.com/shipends/deploy-testnet)** repo -- _maintained by your fellow shipper :)_
 
 ```bash
-git clone https://github.com/shipends/deploy-tesnet
+git clone https://github.com/shipends/deploy-testnet
 ```
 
 ## 2. Installing
