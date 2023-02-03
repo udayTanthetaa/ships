@@ -55,7 +55,7 @@ const contract = await contractFactory.deploy("Helu Shipper", "Shipends");
 
 -   Finally, run this command in terminal `npx hardhat run scripts/deploy.js --network mumbai`
 
-```js
+```bash
 npx hardhat run scripts/deploy.js --network mumbai
 ```
 
