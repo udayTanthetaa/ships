@@ -8,7 +8,7 @@ section: 0
 
 ## 1. Cloning
 
-Clone **[this](https://github.com/shipends/deploy-tesnet)** repo -- maintained by your _fellow_ shipper :)
+Clone **[this](https://github.com/shipends/deploy-tesnet)** repo -- maintained by me :)
 
 ```bash
 git clone https://github.com/shipends/deploy-tesnet
@@ -25,8 +25,8 @@ npm install
 ## 3. Deploying
 
 -   _Create_ an Alchemy account from **[here](https://www.alchemy.com/)**
--   Go to _dashboard_ over **[here](https://dashboard.alchemy.com/)**, then click on `Create App`
--   Go to dashboard _again_ **[here](https://dashboard.alchemy.com/)**, then click on `View Key` + copy the `HTTPS url`
+-   Go to dashboard from **[here](https://dashboard.alchemy.com/)**, then click on `Create App`
+-   Go to dashboard **[again](https://dashboard.alchemy.com/)**, then click on `View Key` + copy the `HTTPS url`
 -   Create `.env` file + paste the _copied_ URL there
 
 ```
