@@ -8,7 +8,7 @@ section: 0
 
 ## 1. Cloning
 
-Clone **[this](https://github.com/shipends/deploy-tesnet)** repo -- maintained by me :)
+Clone **[this](https://github.com/shipends/deploy-tesnet)** repo -- maintained by your :)
 
 ```bash
 git clone https://github.com/shipends/deploy-tesnet
@@ -72,6 +72,6 @@ what the heck it does ??? -- **99%** will just `bounce`, no matter how _good_ yo
 **But,** what if you drop a link to your _verified smart contract_ on Etherscan where anyone can
 go + check out your actual code -- **_suddenly, you are legit._**
 
-> **p.s.,** after verifying, you'll get a `green check` on Etherscan -- _all for free :)_
+> **p.s.,** after verifying, you'll get a **_green check_** on Etherscan -- _all for free :)_
 
 ### Click [here](./verify_etherscan.md) & get your smart contract verified -- in less than 5 min.
