@@ -72,4 +72,4 @@ Etherscan where anyone can go + check out your actual code -- **_suddenly, you a
 
 > **p.s.,** after verifying, you'll get a **_green check_** on Etherscan -- _all for free :)_
 
-### Click [here](./verify_etherscan.md) & get your smart contract verified -- in less than 5 min.
+### Click [here](./verify_etherscan.md) & get your smart contract verified -- within 5 min.

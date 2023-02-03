@@ -51,17 +51,19 @@ module.exports = ["Helu Shipper!", "Shipends"];
 
 > **Note** -- Arguments _must_ be exactly **_same_** as when your contract was **_deployed_**.
 
--   If you have contructor arguments, run this `npx hardhat verify --constructor-args arguments.js <YOUR_DEPLOYED_CONTRACT_ADDRESS> --network mumbai`
+-   If you have contructor arguments, run the command given below.
 
 ```bash
 npx hardhat verify --constructor-args arguments.js 0xFB6dBBF6CA6445409D572D11Da2d38d8e97Ac7df --network mumbai
 ```
 
--   **OR** else run this one `npx hardhat verify <YOUR_DEPLOYED_CONTRACT_ADDRESS> --network mumbai`.
+-   **OR** else run this one given below.
 
 ```bash
 npx hardhat verify 0xFB6dBBF6CA6445409D572D11Da2d38d8e97Ac7df --network mumbai
 ```
+
+> **p.s.,** don't forget to **_replace_** given smart contract address with yours :)
 
 ## 4. Confirming
 
@@ -69,4 +71,4 @@ Go to _Polygonscan Mumbai_ from **[here](https://mumbai.polygonscan.com/)** + pa
 you will see a green check mark on `Contract` tab + anyone can _connect_ their wallet & _interact_ with it --
 _you don't need that ***hunky-funky*** frontend after all :)_
 
-## 5. what's next?
+## 5. What's Next?
