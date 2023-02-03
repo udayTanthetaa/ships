@@ -8,7 +8,7 @@ section: 0
 
 ## 1. Cloning
 
-Clone [this](../../ships/) repo -- maintained by your fellow shipper.
+Clone [this](../../deploy-testnet) repo -- maintained by your fellow shipper.
 
 ```bash
 git clone link
