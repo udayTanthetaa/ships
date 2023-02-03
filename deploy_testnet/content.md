@@ -67,10 +67,8 @@ Go to _Polygonscan Mumbai_ from **[here](https://mumbai.polygonscan.com/)** + pa
 ## 5. What's Next?
 
 Think like this, _why_ would I connect my wallet to a random website which only god knows
-what the heck it does ??? -- **99%** will just `bounce`, no matter how _good_ your idea is.
-
-**But,** what if you drop a link to your _verified smart contract_ on Etherscan where anyone can
-go + check out your actual code -- **_suddenly, you are legit._**
+what the heck it does ??? -- **99%** will just `bounce`, no matter how _good_ your idea is. **But,** what if you drop a link to your _verified smart contract_ on
+Etherscan where anyone can go + check out your actual code -- **_suddenly, you are legit._**
 
 > **p.s.,** after verifying, you'll get a **_green check_** on Etherscan -- _all for free :)_
 
