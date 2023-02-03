@@ -27,13 +27,10 @@ npm install
 ## 3. Deploying
 
 -   Create an Alchemy account from [here](https://www.alchemy.com/)
+
 -   Go to dashboard over [here](https://dashboard.alchemy.com/), then click on `Create App`
 
-![Create App on Alchemy](https://i.imgur.com/ZHnZxAb.png)
-
 -   Go to dashboard again [here](https://dashboard.alchemy.com/), then click on `View Key` + copy the HTTPS url
-
-![Copy HTTPS URL from Alchemy](https://i.imgur.com/lB1n0eI.png)
 
 -   Create .env file + paste the copied URL there
 
@@ -74,8 +71,6 @@ voila, your smart contract is live for anyone to use, isn't that cool!
 
 ## What's next?
 
-> You know what's more cool? -- that green check mark on your deployed contract like below :)
-
-![Green check on Etherscan](https://i.imgur.com/zcKN61w.png)
+> You know what's more cool? -- that green check mark on your deployed contract :)
 
 ### Click [here](./verify_etherscan.md) & make your smart contract verified -- in just 5 mins.
