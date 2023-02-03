@@ -18,7 +18,7 @@ git clone link
 
 Go inside the folder and install packages.
 
-```bash
+```js
 npm install
 ```
 
@@ -55,7 +55,7 @@ const contract = await contractFactory.deploy("Helu Shipper", "Shipends");
 
 -   Finally, run this command in terminal `npx hardhat run scripts/deploy.js --network mumbai`
 
-```bash
+```js
 npx hardhat run scripts/deploy.js --network mumbai
 ```
 
