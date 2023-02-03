@@ -8,7 +8,7 @@ section: 0
 
 ## 1. Cloning
 
-Clone [this](link) repo -- maintained by your fellow shipper.
+Clone [this](../deploy_testnet/) repo -- maintained by your fellow shipper.
 
 ```bash
 git clone link
@@ -64,8 +64,14 @@ npx hardhat run scripts/deploy.js --network mumbai
 Go to Polygonscan Mumbai from [here](https://mumbai.polygonscan.com/) + paste your deployed contract address in search bar --
 voila, your smart contract is live for anyone to use, isn't that cool!
 
-## What's next?
+## 5. What's next?
 
-> You know what's more cool? -- that green check mark on your deployed contract :)
+Think like this, why would I connect my wallet to a random website which only god knows
+what the heck it does ??? -- 99% will just bounce, no matter how good your idea is.
 
-### Click [here](./verify_etherscan.md) & make your smart contract verified -- in just 5 mins.
+But, what if you drop a link to your verified smart contract on Etherscan where anyone can
+go + check out your actual code -- suddenly, you are legit.
+
+> p.s., after verifying, you'll get a green check on Etherscan -- all for free :)
+
+### Click [here](./verify_etherscan.md) & get your smart contract verified -- in less than 5 min.
