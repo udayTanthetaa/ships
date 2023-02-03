@@ -49,7 +49,7 @@ ALCHEMY_RPC_URL = https://polygon-mumbai.g.alchemy.com/v2/HXjU_LEQGsJdorj0WvERDM
 module.exports = ["Helu Shipper!", "Shipends"];
 ```
 
-> **Note** -- Arguments _must_ be exactly **_same_** as when your contract was `deployed`.
+> **Note** -- Arguments _must_ be exactly **_same_** as when your contract was **_deployed_**.
 
 -   If you have contructor arguments, run this `npx hardhat verify --constructor-args arguments.js <YOUR_DEPLOYED_CONTRACT_ADDRESS> --network mumbai`
 
@@ -67,6 +67,6 @@ npx hardhat verify 0xFB6dBBF6CA6445409D572D11Da2d38d8e97Ac7df --network mumbai
 
 Go to _Polygonscan Mumbai_ from **[here](https://mumbai.polygonscan.com/)** + paste your _deployed_ contract address in search bar --
 you will see a green check mark on `Contract` tab + anyone can _connect_ their wallet & _interact_ with it --
-_you don't need that ***hunky-funky*** frontend after all, :)_
+_you don't need that ***hunky-funky*** frontend after all :)_
 
 ## 5. what's next?
