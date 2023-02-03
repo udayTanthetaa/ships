@@ -27,11 +27,8 @@ npm install
 ## 3. Deploying
 
 -   Create an Alchemy account from [here](https://www.alchemy.com/)
-
 -   Go to dashboard over [here](https://dashboard.alchemy.com/), then click on `Create App`
-
 -   Go to dashboard again [here](https://dashboard.alchemy.com/), then click on `View Key` + copy the HTTPS url
-
 -   Create .env file + paste the copied URL there
 
 ```
