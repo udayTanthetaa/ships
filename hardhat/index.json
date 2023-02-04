@@ -2,23 +2,28 @@
 	"parent": "hardhat",
 	"0": {
 		"title": "Set up Hardhat + start doing magical stuff.",
-		"path": "setting_up_hardhat"
+		"path": "setting_up_hardhat",
+		"takes": 5
 	},
 	"1": {
 		"title": "How hardhat works under the hood?",
-		"path": "under_the_hood"
+		"path": "under_the_hood",
+		"takes": 5
 	},
 	"2": {
 		"title": "Deploy smart contracts locally.",
-		"path": "local_deployment"
+		"path": "local_deployment",
+		"takes": 5
 	},
 	"3": {
 		"title": "Deploy your smart contract on Testnet.",
-		"path": "going_live"
+		"path": "deploy_testnet",
+		"takes": 5
 	},
 	"4": {
 		"title": "Verify your smart contract on Etherscan",
-		"path": "verifying_on_etherscan"
+		"path": "verify_etherscan",
+		"takes": 5
 	},
 	"sections": ["0", "1", "2", "3", "4"]
 }
