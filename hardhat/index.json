@@ -1,7 +1,9 @@
 {
 	"parent": "hardhat",
+	"banner": "https://i.imgur.com/lEj5AHA.jpg",
 	"0": {
 		"title": "Set up Hardhat + start doing magical stuff.",
+
 		"path": "setting_up_hardhat",
 		"takes": 5
 	},
