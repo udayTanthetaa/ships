@@ -1,20 +1,44 @@
 {
 	"ships": [
 		{
-			"name": "Deploy your smart contract on Testnet",
-			"takes": 5,
-			"description": "It's time to get off the localhost + get real users for your dApp -- takes 5 mins.",
-			"path": "deploy_testnet",
+			"name": "Hardhat",
+			"description": "Build, deploy and verify production ready smart contracts, starting today.",
+			"path": "hardhat",
+			"logo": "https://i.imgur.com/eVPmDc1.jpg",
 			"banner": "https://i.imgur.com/9ltNGpI.jpg",
 			"status": "active"
 		},
 		{
-			"name": "Verify your smart contract on Etherscan",
-			"takes": 5,
-			"description": "Get your Etherscan Green tag for free, unlike Twitter Blue -- takes 5 mins.",
-			"path": "verify_etherscan",
+			"name": "RainbowKit",
+			"description": "The goto connect wallet button for your next dApp is just a click away.",
+			"path": "rainbowkit",
+			"logo": "https://i.imgur.com/W4rhWit.png",
 			"banner": "https://i.imgur.com/wzjm8zv.jpg",
-			"status": "active"
+			"status": "soon"
+		},
+		{
+			"name": "Wagmi",
+			"description": "Learn how to interact with smart contracts like a pro.",
+			"path": "wagmi",
+			"logo": "https://i.imgur.com/t8fjzIS.jpg",
+			"banner": "https://i.imgur.com/C1nJRrK.jpg",
+			"status": "soon"
+		},
+		{
+			"name": "Push Protocol",
+			"description": "The one and only pinky notification centre for all your web3 communications.",
+			"path": "push-protocol",
+			"logo": "https://i.imgur.com/Vv1JZNk.png",
+			"banner": "https://i.imgur.com/6EMZCyz.jpg",
+			"status": "soon"
+		},
+		{
+			"name": "Biconomy",
+			"description": "Cast magical spells with wallets that work like a charm.",
+			"path": "biconomy",
+			"logo": "https://i.imgur.com/hiM6ZJb.jpg",
+			"banner": "https://i.imgur.com/oQHRqzy.jpg",
+			"status": "soon"
 		}
 	]
 }

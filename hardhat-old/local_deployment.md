@@ -1,7 +1,6 @@
 ---
-title: Local Deployment
+title: Deploying Smart Contracts
 takes: 5
-section: 4
 ---
 
 # Deploying Smart Contracts --takes 5 min.
