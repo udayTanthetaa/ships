@@ -3,26 +3,31 @@
 	"banner": "https://i.imgur.com/lEj5AHA.jpg",
 	"0": {
 		"title": "Set up Hardhat + start doing magical stuff.",
+		"description": "Start writing production-ready smart contracts -- right from scratch.",
 		"path": "setting_up_hardhat",
 		"takes": 5
 	},
 	"1": {
 		"title": "How hardhat works under the hood?",
+		"description": "Wanna connect smart contract to your frontend, you definitely gotta know this.",
 		"path": "under_the_hood",
 		"takes": 5
 	},
 	"2": {
 		"title": "Deploy smart contracts locally.",
+		"description": "You haven't wrote a smart contract, if it isn't deployed -- right?",
 		"path": "local_deployment",
 		"takes": 5
 	},
 	"3": {
 		"title": "Deploy your smart contract on Testnet.",
+		"description": "If it's on localhost, it didn't happen -- simple!",
 		"path": "deploy_testnet",
 		"takes": 5
 	},
 	"4": {
 		"title": "Verify your smart contract on Etherscan",
+		"description": "Forget Twitter Blue, lemme introduce you to Etherscan Green.",
 		"path": "verify_etherscan",
 		"takes": 5
 	},
