@@ -2,25 +2,25 @@
 	"parent": "hardhat",
 	"banner": "https://i.imgur.com/lEj5AHA.jpg",
 	"0": {
-		"title": "Set up Hardhat + start doing magical stuff.",
+		"title": "Set up Hardhat + start doing magical stuff",
 		"description": "Start writing production-ready smart contracts -- right from scratch.",
 		"path": "setting_up_hardhat",
-		"takes": 5
+		"takes": 2
 	},
 	"1": {
 		"title": "How hardhat works under the hood?",
-		"description": "Wanna connect smart contract to your frontend, you definitely gotta know this.",
+		"description": "If you wanna connect smart contract to your frontend, you definitely gotta know this.",
 		"path": "under_the_hood",
-		"takes": 5
+		"takes": 3
 	},
 	"2": {
-		"title": "Deploy smart contracts locally.",
+		"title": "Deploy smart contracts locally",
 		"description": "You haven't wrote a smart contract, if it isn't deployed -- right?",
 		"path": "local_deployment",
-		"takes": 5
+		"takes": 4
 	},
 	"3": {
-		"title": "Deploy your smart contract on Testnet.",
+		"title": "Deploy your smart contract on Testnet",
 		"description": "If it's on localhost, it didn't happen -- simple!",
 		"path": "deploy_testnet",
 		"takes": 5

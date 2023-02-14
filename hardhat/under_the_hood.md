@@ -1,14 +1,14 @@
 ---
-title: Under the Hood
+title: How hardhat works under the hood?
 takes: 2
 section: 3
 ---
 
-# Under the Hood --takes 3 min.
+# How hardhat works under the hood? --takes 3 min.
 
 ## Prerequisites
 
--   [Writing Smart Contracts](./2_writing_smart_contracts.md)
+-   [Hardhat Setup](./setting_up_hardhat.md)
 
 ## 1. Importing Environment
 
@@ -35,7 +35,11 @@ main().catch((error) => {
 
 ## 3. Executing main()
 
-To **_run_** the script that we just made, run `npx hardhat run scripts/hello.js`
+To **_run_** the script that we just made, this command.
+
+```bash
+npx hardhat run scripts/hello.js
+```
 
 -   `npx` - telling NodeJS that you wanna do something
 -   `hardhat` - specifying the package that you want to use
@@ -62,5 +66,12 @@ _removes_ all the files from cache folder.
 ```bash
 npx hardhat clean
 ```
+
+## 6. What's Next?
+
+You know how everything works right from inside out -- that's cool right? But,
+what if
+
+### Click [here](./deploy_testnet.md) & let's get em' deployed -- within 3 min.
 
 ### Done already? -- Let's **[see](./4_local_deployment.md)** it in action then.

@@ -1,14 +1,13 @@
 ---
-title: Deploying Smart Contracts
+title: Deploy smart contracts locally
 takes: 5
 ---
 
-# Deploying Smart Contracts --takes 5 min.
+# Deploy smart contracts locally --takes 5 min.
 
 ## Prerequisites
 
--   [Writing Contracts](./2_writing_contracts.md)
--   [Under the Hood](./3_under_the_hood.md)
+-   [Hardhat Setup](./setting_up_hardhat.md)
 
 ## 1. Creating Deploy Script
 
@@ -32,7 +31,7 @@ main().catch((error) => {
 });
 ```
 
-## 3. Understanding Deployment Process (Optional)
+## 3. (Optional) Understanding Deployment Process
 
 -   To _deploy_ a smart contract, it's `bytecode` is required -- you can find bytecode's value in `artifacts/contracts/[CONTRACT_NAME].sol/[CONTRACT_NAME].json` stored in the **bytecode** variable.
 
@@ -74,7 +73,7 @@ const main = async () => {
 };
 ```
 
-> **_p.s._**, you can also `console.log` _contractFactory_ + _contract_ objects to sell all that _nerdy_ stuff which happens behind the scenes.
+> **_p.s._**, you can also `console.log` _contractFactory_ + _contract_ objects to see all that _nerdy_ stuff which happens behind the scenes.
 
 ## 5. Executing Deploy Script
 

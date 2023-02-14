@@ -1,9 +1,9 @@
 ---
-title: Setting up Hardhat
+title: Set up Hardhat + start doing magical stuff
 takes: 2
 ---
 
-# Setting up Hardhat --takes 2 min.
+# Set up Hardhat + start doing magical stuff --takes 4 min.
 
 ## 1. Installation
 
@@ -29,4 +29,34 @@ npx hardhat
 -   `scripts` - Deployment scripts are made here
 -   `test` - Testing scripts go here
 
-### Let's write some cool smart contracts in the **[next](./2_writing_smart_contracts.md)** section.
+## 4. Starter Contract
+
+Create a file -- **Hello.sol** in `contracts` folder. Then, _copy + paste_ the following code.
+
+```js
+// SPDX-License-Identifier: MIT
+
+pragma solidity ^0.8.17;
+
+import "hardhat/console.sol";
+
+contract Hello {
+    string public message = "Hello World";
+
+    function getMessage() public view returns (string memory) {
+        return message;
+    }
+}
+```
+
+## 5. (Optional) Pro Tips
+
+-   Install `Solidity` extension in VS Code by _Juan Blanco_ from **[here](https://marketplace.visualstudio.com/items?itemName=JuanBlanco.solidity)** -- it will help in debugging + developing _faster_.
+-   Don't know how to write smart contracts? -- check **[this](https://solidity-by-example.org/)** out.
+
+## 6. What's Next?
+
+You have a hardhat project all set up, damn! But, it ain't worth something until you actually
+deploy some cool contracts -- right?
+
+### Click [here](./deploy_testnet.md) & let's get em' deployed -- within 3 min.
