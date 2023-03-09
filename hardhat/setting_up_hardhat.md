@@ -51,8 +51,8 @@ contract Hello {
 
 ## 5. (Optional) Pro Tips
 
--   Install `Solidity` extension in VS Code by _Juan Blanco_ from **[here](https://marketplace.visualstudio.com/items?itemName=JuanBlanco.solidity)** -- it will help in debugging + developing _faster_.
--   Don't know how to write smart contracts? -- check **[this](https://solidity-by-example.org/)** out.
+-   Install `Solidity` extension in VS Code by _Juan Blanco_ from [here](https://marketplace.visualstudio.com/items?itemName=JuanBlanco.solidity) -- it will help in debugging + developing _faster_.
+-   Don't know how to write smart contracts? -- check [this](https://solidity-by-example.org/) out.
 
 ## 6. What's Next?
 
