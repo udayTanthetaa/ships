@@ -34,7 +34,7 @@ main().catch((error) => {
 
 ## 3. (Optional) Understanding Deployment Process
 
--   To _deploy_ a smart contract, it's `bytecode` is required -- you can find bytecode's value in `artifacts/contracts/[CONTRACT_NAME].sol/[CONTRACT_NAME].json` stored in the **bytecode** variable.
+-   To _deploy_ a smart contract, it's `bytecode` is required -- you can find bytecode's value in **artifacts/contracts/[CONTRACT_NAME].sol/[CONTRACT_NAME].json** stored in the **bytecode** variable.
 -   Bytecode is taken by a function of _ethers_ called `getContractFactory`.
 -   Then, we will call the **_deploy_** method returned by getContractFactory object.
 -   Now, just _wait_ for the `deployed promise` to get fulfilled.
