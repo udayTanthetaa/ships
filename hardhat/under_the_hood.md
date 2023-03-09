@@ -1,7 +1,6 @@
 ---
 title: How hardhat works under the hood?
-takes: 2
-section: 3
+takes: 3
 ---
 
 # How hardhat works under the hood? --takes 3 min.
@@ -69,9 +68,6 @@ npx hardhat clean
 
 ## 6. What's Next?
 
-You know how everything works right from inside out -- that's cool right? But,
-what if
+You know how everything works right from inside out. But, it's ain't worth anything
 
 ### Click [here](./deploy_testnet.md) & let's get em' deployed -- within 3 min.
-
-### Done already? -- Let's **[see](./4_local_deployment.md)** it in action then.
