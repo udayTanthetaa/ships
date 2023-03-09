@@ -14,7 +14,7 @@ npm install --save-dev hardhat
 
 ## 2. Project Creation
 
-Run `npx hardhat` in terminal -> Create a _JavaScript_ project -> `SPAM ENTER` for all other options.
+Run **below** command in terminal -> Choose `create` a _JavaScript_ project -> `SPAM ENTER` for all other options.
 
 ```bash
 npx hardhat
@@ -52,11 +52,11 @@ contract Hello {
 ## 5. (Optional) Pro Tips
 
 -   Install `Solidity` extension in VS Code by _Juan Blanco_ from [here](https://marketplace.visualstudio.com/items?itemName=JuanBlanco.solidity) -- it will help in debugging + developing _faster_.
--   Don't know how to write smart contracts? -- check [this](https://solidity-by-example.org/) out.
+-   Don't know how to `write` smart contracts? -- check [this](https://solidity-by-example.org/) out.
 
 ## 6. What's Next?
 
-You have a hardhat project all set up, damn! Before doing some magical stuff with it, you actaully need to know
-how it all works under the hood, right?
+You have a hardhat project all set up, **damn!** Before doing some _magical stuff_ with it, you actaully need to know
+how it all **works**, right?
 
 ### Click [here](./under_the_hood.md) to expose Hardhat's magical tricks happening under the hood.
