@@ -2,7 +2,7 @@
 	"parent": "hardhat",
 	"banner": "https://i.imgur.com/lEj5AHA.jpg",
 	"0": {
-		"title": "Set up Hardhat + start doing magical stuff",
+		"title": "Setting up Hardhat",
 		"description": "Start writing production-ready smart contracts -- right from scratch.",
 		"path": "setting_up_hardhat",
 		"takes": 2

@@ -1,9 +1,9 @@
 ---
-title: Set up Hardhat + start doing magical stuff
+title: Setting up hardhat
 takes: 2
 ---
 
-# Set up Hardhat + start doing magical stuff --takes 4 min.
+# Setting up hardhat --takes 2 min.
 
 ## 1. Installation
 
