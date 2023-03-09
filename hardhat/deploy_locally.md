@@ -5,7 +5,7 @@ takes: 5
 
 # Deploy smart contracts Locally --takes 4 min.
 
-## Prerequisites
+## 0. Prerequisites
 
 -   [Hardhat Setup](./setting_up_hardhat.md)
 -   [How it Works?](./under_the_hood.md)

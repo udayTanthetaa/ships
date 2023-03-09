@@ -56,7 +56,7 @@ contract Hello {
 
 ## 6. What's Next?
 
-You have a hardhat project all set up, damn! But, it ain't worth something until you actually
-deploy some cool contracts -- right?
+You have a hardhat project all set up, damn! Before doing some magical stuff with it, you actaully need to know
+how it all works under the hood, right?
 
-### Click [here](./deploy_locally.md) & let's get em' deployed -- within 3 min.
+### Click [here](./under_the_hood.md) to expose Hardhat's magical tricks happening under the hood.

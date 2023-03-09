@@ -6,7 +6,7 @@ section: 3
 
 # How hardhat works under the hood? --takes 3 min.
 
-## Prerequisites
+## 0. Prerequisites
 
 -   [Hardhat Setup](./setting_up_hardhat.md)
 
