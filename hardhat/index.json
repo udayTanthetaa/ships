@@ -2,9 +2,9 @@
 	"parent": "hardhat",
 	"banner": "https://i.imgur.com/lEj5AHA.jpg",
 	"0": {
-		"title": "Setting up Hardhat",
+		"title": "Set up Hardhat",
 		"description": "Start writing production-ready smart contracts -- right from scratch.",
-		"path": "setting_up_hardhat",
+		"path": "set_up_hardhat",
 		"takes": 2
 	},
 	"1": {
@@ -14,19 +14,19 @@
 		"takes": 3
 	},
 	"2": {
-		"title": "Deploy smart contracts locally",
+		"title": "Deploy smart contracts Locally",
 		"description": "You haven't wrote a smart contract, if it isn't deployed -- right?",
-		"path": "local_deployment",
+		"path": "deploy_locally",
 		"takes": 4
 	},
 	"3": {
-		"title": "Deploy your smart contract on Testnet",
+		"title": "Deploy smart contracts on Testnet",
 		"description": "If it's on localhost, it didn't happen -- simple!",
 		"path": "deploy_testnet",
 		"takes": 5
 	},
 	"4": {
-		"title": "Verify your smart contract on Etherscan",
+		"title": "Verify smart contracts on Etherscan",
 		"description": "Forget Twitter Blue, lemme introduce you to Etherscan Green.",
 		"path": "verify_etherscan",
 		"takes": 5

@@ -1,9 +1,9 @@
 ---
-title: Setting up hardhat
+title: Set up Hardhat
 takes: 2
 ---
 
-# Setting up hardhat --takes 2 min.
+# Set up Hardhat --takes 2 min.
 
 ## 1. Installation
 
@@ -59,4 +59,4 @@ contract Hello {
 You have a hardhat project all set up, damn! But, it ain't worth something until you actually
 deploy some cool contracts -- right?
 
-### Click [here](./deploy_testnet.md) & let's get em' deployed -- within 3 min.
+### Click [here](./deploy_locally.md) & let's get em' deployed -- within 3 min.

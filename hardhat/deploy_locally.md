@@ -1,9 +1,9 @@
 ---
-title: Deploy smart contracts locally
+title: Deploy smart contracts Locally
 takes: 5
 ---
 
-# Deploy smart contracts locally --takes 5 min.
+# Deploy smart contracts Locally --takes 4 min.
 
 ## Prerequisites
 
